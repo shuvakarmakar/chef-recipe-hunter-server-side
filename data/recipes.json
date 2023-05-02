@@ -5,7 +5,7 @@
         "yearsOfExperience": 35,
         "numRecipes": 75,
         "likes": 3000,
-        "chefPicture": "https://example.com/chef1.jpg",
+        "chefPicture": "https://d3h1lg3ksw6i6b.cloudfront.net/media/image/2021/02/26/ac195a880a244ad79a146cfd96d8826c_1_NARISAWA_Yoshihiro+Narisawa+Chef2.jpg",
         "viewRecipesButton": "https://example.com/chef1-recipes",
         "recipes": [
             {
@@ -47,7 +47,7 @@
         "yearsOfExperience": 25,
         "numRecipes": 50,
         "likes": 1500,
-        "chefPicture": "https://example.com/chef2.jpg",
+        "chefPicture": "https://onecms-res.cloudinary.com/image/upload/s--mItAQYrr--/c_crop,h_1000,w_1334,x_69,y_0/c_fill,g_auto,h_622,w_830/f_auto,q_auto/v1/mediacorp/cna/image/2021/11/01/chef_akane_eno_3.jpg?itok=2drQ4Arn",
         "viewRecipesButton": "https://example.com/chef2-recipes",
         "recipes": [
             {
@@ -89,7 +89,7 @@
         "yearsOfExperience": 30,
         "numRecipes": 100,
         "likes": 2500,
-        "chefPicture": "https://example.com/chef3.jpg",
+        "chefPicture": "https://globalnews.ca/wp-content/uploads/2016/06/johv103345271_high.jpg?quality=85&strip=all",
         "viewRecipesButton": "https://example.com/chef3-recipes",
         "recipes": [
             {
@@ -130,7 +130,7 @@
         "yearsOfExperience": 40,
         "numRecipes": 80,
         "likes": 5000,
-        "chefPicture": "https://example.com/chef4.jpg",
+        "chefPicture": "https://media.timeout.com/images/105650785/750/422/image.jpg",
         "viewRecipesButton": "https://example.com/chef4-recipes",
         "recipes": [
             {
@@ -171,7 +171,7 @@
         "yearsOfExperience": 20,
         "numRecipes": 40,
         "likes": 1000,
-        "chefPicture": "https://example.com/chef5.jpg",
+        "chefPicture": "https://sushi-guide.co.uk/wp-content/uploads/2020/04/Sushi-Chef.jpg",
         "viewRecipesButton": "https://example.com/chef5-recipes",
         "recipes": [
             {
@@ -215,7 +215,7 @@
         "yearsOfExperience": 15,
         "numRecipes": 30,
         "likes": 500,
-        "chefPicture": "https://example.com/chef6.jpg",
+        "chefPicture": "https://images.slurrp.com/prod/articles/2379rxjr8c2.webp",
         "viewRecipesButton": "https://example.com/chef6-recipes",
         "recipes": [
             {
