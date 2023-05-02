@@ -1,0 +1,254 @@
+[
+    {
+        "id": 1,
+        "chefName": "Masaharu Morimoto",
+        "yearsOfExperience": 35,
+        "numRecipes": 75,
+        "likes": 3000,
+        "chefPicture": "https://example.com/chef1.jpg",
+        "viewRecipesButton": "https://example.com/chef1-recipes",
+        "recipes": [
+            {
+                "recipeName": "Tuna Tartare",
+                "description": "Fresh, raw tuna diced and mixed with avocado, lime, and soy sauce.",
+                "ingredients": [
+                    "Fresh tuna",
+                    "Avocado",
+                    "Lime",
+                    "Soy sauce"
+                ]
+            },
+            {
+                "recipeName": "Black Cod Miso",
+                "description": "Grilled black cod marinated in a sweet and savory miso glaze.",
+                "ingredients": [
+                    "Black cod",
+                    "Miso paste",
+                    "Mirin",
+                    "Sake"
+                ]
+            },
+            {
+                "recipeName": "Katsu Curry",
+                "description": "Japanese-style curry with crispy chicken cutlets.",
+                "ingredients": [
+                    "Chicken cutlets",
+                    "Carrots",
+                    "Potatoes",
+                    "Onions",
+                    "Curry powder"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "chefName": "Takashi Saito",
+        "yearsOfExperience": 25,
+        "numRecipes": 50,
+        "likes": 1500,
+        "chefPicture": "https://example.com/chef2.jpg",
+        "viewRecipesButton": "https://example.com/chef2-recipes",
+        "recipes": [
+            {
+                "recipeName": "Sushi Rolls",
+                "description": "Classic sushi rolls filled with fresh fish and vegetables.",
+                "ingredients": [
+                    "Sushi rice",
+                    "Nori seaweed",
+                    "Fresh fish",
+                    "Cucumber",
+                    "Avocado"
+                ]
+            },
+            {
+                "recipeName": "Miso Soup",
+                "description": "Traditional Japanese soup made with miso paste and dashi broth.",
+                "ingredients": [
+                    "Miso paste",
+                    "Dashi broth",
+                    "Tofu",
+                    "Green onions"
+                ]
+            },
+            {
+                "recipeName": "Beef Teriyaki",
+                "description": "Thinly-sliced beef cooked in a sweet and savory teriyaki sauce.",
+                "ingredients": [
+                    "Beef",
+                    "Soy sauce",
+                    "Mirin",
+                    "Sugar"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "chefName": "Yoshihiro Murata",
+        "yearsOfExperience": 30,
+        "numRecipes": 100,
+        "likes": 2500,
+        "chefPicture": "https://example.com/chef3.jpg",
+        "viewRecipesButton": "https://example.com/chef3-recipes",
+        "recipes": [
+            {
+                "recipeName": "Udon Noodles",
+                "description": "Thick, chewy noodles served in a flavorful broth.",
+                "ingredients": [
+                    "Udon noodles",
+                    "Dashi broth",
+                    "Green onions",
+                    "Fish cakes"
+                ]
+            },
+            {
+                "recipeName": "Tempura",
+                "description": "Assorted vegetables and seafood deep-fried in a light, crispy batter.",
+                "ingredients": [
+                    "Assorted vegetables (e.g. sweet potato, eggplant, green beans)",
+                    "Seafood (e.g. shrimp, squid, scallops)",
+                    "Tempura batter"
+                ]
+            },
+            {
+                "recipeName": "Tonkatsu",
+                "description": "Breaded and deep-fried pork cutlets served with a tangy sauce.",
+                "ingredients": [
+                    "Pork cutlets",
+                    "Panko breadcrumbs",
+                    "Egg",
+                    "Flour",
+                    "Tonkatsu sauce"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "chefName": "Nobu Matsuhisa",
+        "yearsOfExperience": 40,
+        "numRecipes": 80,
+        "likes": 5000,
+        "chefPicture": "https://example.com/chef4.jpg",
+        "viewRecipesButton": "https://example.com/chef4-recipes",
+        "recipes": [
+            {
+                "recipeName": "Nobu-style Sashimi",
+                "description": "Thinly-sliced raw fish served with a variety of sauces and toppings.",
+                "ingredients": [
+                    "Assorted raw fish (e.g. tuna, salmon, yellowtail)",
+                    "Soy sauce",
+                    "Wasabi",
+                    "Ginger"
+                ]
+            },
+            {
+                "recipeName": "Black Cod with Miso",
+                "description": "Grilled black cod marinated in a sweet and savory miso glaze.",
+                "ingredients": [
+                    "Black cod",
+                    "Miso paste",
+                    "Mirin",
+                    "Sake"
+                ]
+            },
+            {
+                "recipeName": "Rock Shrimp Tempura",
+                "description": "Crispy fried shrimp coated in a spicy mayonnaise sauce.",
+                "ingredients": [
+                    "Shrimp",
+                    "Tempura batter",
+                    "Spicy mayo",
+                    "Green onions"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "chefName": "Hironori Ikeno",
+        "yearsOfExperience": 20,
+        "numRecipes": 40,
+        "likes": 1000,
+        "chefPicture": "https://example.com/chef5.jpg",
+        "viewRecipesButton": "https://example.com/chef5-recipes",
+        "recipes": [
+            {
+                "recipeName": "Okonomiyaki",
+                "description": "Savory Japanese pancake filled with cabbage, pork, and seafood.",
+                "ingredients": [
+                    "Cabbage",
+                    "Pork belly",
+                    "Shrimp",
+                    "Squid",
+                    "Okonomiyaki batter"
+                ]
+            },
+            {
+                "recipeName": "Yakitori",
+                "description": "Grilled skewers of chicken and vegetables basted with a sweet and savory sauce.",
+                "ingredients": [
+                    "Chicken thighs",
+                    "Green onions",
+                    "Bell peppers",
+                    "Soy sauce",
+                    "Mirin",
+                    "Sugar"
+                ]
+            },
+            {
+                "recipeName": "Takoyaki",
+                "description": "Small, round balls of dough filled with octopus and topped with sauce and mayo.",
+                "ingredients": [
+                    "Takoyaki batter",
+                    "Octopus",
+                    "Takoyaki sauce",
+                    "Mayonnaise"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "chefName": "Yoshimi Tanigawa",
+        "yearsOfExperience": 15,
+        "numRecipes": 30,
+        "likes": 500,
+        "chefPicture": "https://example.com/chef6.jpg",
+        "viewRecipesButton": "https://example.com/chef6-recipes",
+        "recipes": [
+            {
+                "recipeName": "Shabu Shabu",
+                "description": "Hot pot dish featuring thinly-sliced beef and vegetables cooked in a flavorful broth.",
+                "ingredients": [
+                    "Beef",
+                    "Assorted vegetables (e.g. napa cabbage, carrots, mushrooms)",
+                    "Shabu shabu broth"
+                ]
+            },
+            {
+                "recipeName": "Gyoza",
+                "description": "Pan-fried dumplings filled with ground pork and vegetables.",
+                "ingredients": [
+                    "Ground pork",
+                    "Cabbage",
+                    "Garlic",
+                    "Gyoza wrappers",
+                    "Soy sauce",
+                    "Rice vinegar"
+                ]
+            },
+            {
+                "recipeName": "Soba Noodles",
+                "description": "Thin, buckwheat noodles served with a dipping sauce and various toppings.",
+                "ingredients": [
+                    "Soba noodles",
+                    "Dipping sauce (e.g. tsuyu)",
+                    "Green onions",
+                    "Wasabi"
+                ]
+            }
+        ]
+    }
+]
