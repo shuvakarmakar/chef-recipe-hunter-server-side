@@ -2,6 +2,7 @@
     {
         "id": 1,
         "chefName": "Masaharu Morimoto",
+        "chefsDescription": "A world-renowned chef and restaurateur, Masaharu Morimoto is known for his innovative take on traditional Japanese cuisine. He has worked in some of the finest kitchens in the world and has been featured on numerous cooking shows.",
         "yearsOfExperience": 35,
         "numRecipes": 75,
         "likes": 3000,
@@ -44,6 +45,7 @@
     {
         "id": 2,
         "chefName": "Takashi Saito",
+        "chefsDescription": "Considered by many to be the greatest sushi chef in the world, Takashi Saito is the owner of Sukiyabashi Jiro, a three-Michelin-starred restaurant in Tokyo. He has been making sushi for over 70 years and is known for his attention to detail and dedication to his craft.",
         "yearsOfExperience": 25,
         "numRecipes": 50,
         "likes": 1500,
@@ -86,6 +88,7 @@
     {
         "id": 3,
         "chefName": "Yoshihiro Murata",
+        "chefsDescription": "A legendary figure in the world of Japanese cuisine, Yoshihiro Murata is a master of French and Japanese cooking. He is perhaps best known for his appearances on the Japanese cooking competition show Iron Chef, where he was a regular cast member and became one of the show's most popular chefs.",
         "yearsOfExperience": 30,
         "numRecipes": 100,
         "likes": 2500,
@@ -127,6 +130,7 @@
     {
         "id": 4,
         "chefName": "Nobu Matsuhisa",
+        "chefsDescription": "The founder of the Nobu restaurant chain, Nobu Matsuhisa is a celebrity chef and restaurateur with locations all around the world. He is known for his unique fusion of Japanese and Peruvian cuisine and his use of high-quality ingredients.",
         "yearsOfExperience": 40,
         "numRecipes": 80,
         "likes": 5000,
@@ -168,6 +172,7 @@
     {
         "id": 5,
         "chefName": "Hironori Ikeno",
+        "chefsDescription": "The head chef at Tokyo's Ikeno Hoken, Hironori Ikeno is known for his modern take on traditional Japanese dishes. He is particularly skilled at creating dishes that are both visually stunning and delicious.",
         "yearsOfExperience": 20,
         "numRecipes": 40,
         "likes": 1000,
@@ -212,6 +217,7 @@
     {
         "id": 6,
         "chefName": "Yoshimi Tanigawa",
+        "chefsDescription": "The head chef at Kyoto's Kikunoi, Yoshimi Tanigawa is a master of kaiseki, a traditional Japanese multi-course meal. He is known for his use of seasonal ingredients and his attention to detail, and his restaurant has earned three Michelin stars",
         "yearsOfExperience": 15,
         "numRecipes": 30,
         "likes": 500,
